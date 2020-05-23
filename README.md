@@ -1,2 +1,4 @@
 # Raspberry-Pi-for-Arduino-Users-Source
-Source code for the APRESS book Raspberry Pi for Arduino Users.
+
+I wrote a book in 2018 called Raspberry Pi for Arduino Users. Since does not seem to be making the source code archive for that book available anymore, I've uploaded it here.
+-JRS
